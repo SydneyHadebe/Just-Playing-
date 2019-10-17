@@ -1,0 +1,11 @@
+C:\Users\CP350359\source\repos\GamingLogic\GamingLogic\bin\Debug\netcoreapp2.1\GamingLogic.deps.json
+C:\Users\CP350359\source\repos\GamingLogic\GamingLogic\bin\Debug\netcoreapp2.1\GamingLogic.runtimeconfig.json
+C:\Users\CP350359\source\repos\GamingLogic\GamingLogic\bin\Debug\netcoreapp2.1\GamingLogic.runtimeconfig.dev.json
+C:\Users\CP350359\source\repos\GamingLogic\GamingLogic\bin\Debug\netcoreapp2.1\GamingLogic.dll
+C:\Users\CP350359\source\repos\GamingLogic\GamingLogic\bin\Debug\netcoreapp2.1\GamingLogic.pdb
+C:\Users\CP350359\source\repos\GamingLogic\GamingLogic\obj\Debug\netcoreapp2.1\GamingLogic.csproj.CoreCompileInputs.cache
+C:\Users\CP350359\source\repos\GamingLogic\GamingLogic\obj\Debug\netcoreapp2.1\GamingLogic.AssemblyInfoInputs.cache
+C:\Users\CP350359\source\repos\GamingLogic\GamingLogic\obj\Debug\netcoreapp2.1\GamingLogic.AssemblyInfo.cs
+C:\Users\CP350359\source\repos\GamingLogic\GamingLogic\obj\Debug\netcoreapp2.1\GamingLogic.dll
+C:\Users\CP350359\source\repos\GamingLogic\GamingLogic\obj\Debug\netcoreapp2.1\GamingLogic.pdb
+C:\Users\CP350359\source\repos\GamingLogic\GamingLogic\obj\Debug\netcoreapp2.1\GamingLogic.csprojAssemblyReference.cache
